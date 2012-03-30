@@ -1,4 +1,7 @@
 {
   "name": "alchemy/phpshortener",
-  "version": "master"
+  "version": "master",
+  "autoload": {
+    "classmap": ["./"]
+  }
 }
